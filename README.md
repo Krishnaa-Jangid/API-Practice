@@ -8,6 +8,8 @@
 ## Tech Stack
 - Java
 - Spring Boot
+- REST API
+- MongoDB
 
 ## How to Run
 1. Clone repo
